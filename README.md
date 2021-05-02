@@ -1,2 +1,2 @@
-# amir
-for new project
+# Image-Editor
+This is our Graduation Project
